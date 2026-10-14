@@ -1,0 +1,4 @@
+{"time": "2026-10-11 18:48:01", "kind": "dashboard", "source": "farmer_field_holdout_data.csv", "rows": 440, "mean_pred": 50.09, "MAE": 24.368, "R2": -0.005, "drift": "Stable"}
+{"time": "2026-10-11 19:08:45", "kind": "dashboard", "source": "farmer_field_holdout_data.csv", "rows": 440, "mean_pred": 50.09, "MAE": 24.368, "R2": -0.005, "drift": "Stable"}
+{"time": "2026-10-13 14:25:16", "kind": "dashboard", "source": "farmer_field_holdout_data.csv", "rows": 440, "mean_pred": 50.09, "MAE": 24.368, "R2": -0.005, "drift": "Stable"}
+{"time": "2026-10-13 14:26:59", "kind": "dashboard", "source": "farmer_field_holdout_data.csv", "rows": 440, "mean_pred": 50.09, "MAE": 24.368, "R2": -0.005, "drift": "Stable"}
